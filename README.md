@@ -1,0 +1,2 @@
+# MyBSWMconfigs
+yes
